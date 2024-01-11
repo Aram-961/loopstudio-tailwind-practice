@@ -1,0 +1,7 @@
+/* Banner Background */
+.hero__banner {
+    background: url('../../images/desktop/image-hero.jpg') no-repeat center;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}

@@ -21,17 +21,17 @@ const dataCreator = [
 
   {
     img: img3,
-    title: "Soccer Team",
+    title: "Soccer Team Vr",
   },
 
   {
     img: img4,
-    title: "Grid",
+    title: "The Grid",
   },
 
   {
     img: img5,
-    title: "From Above",
+    title: "From Above Vr",
   },
 
   {
@@ -41,12 +41,12 @@ const dataCreator = [
 
   {
     img: img7,
-    title: "Curiosity",
+    title: "The Curiosity",
   },
 
   {
     img: img8,
-    title: "Fisheye",
+    title: "Make it Fisheye",
   },
 ];
 

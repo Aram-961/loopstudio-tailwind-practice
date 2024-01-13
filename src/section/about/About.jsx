@@ -5,7 +5,7 @@ const About = () => {
     <div className='container relative py-24 mx-auto'>
       <div>
         <img src={Img} alt='' className='w-auto' />
-        <div className='absolute bg-white left-[50%] bottom-[5%] p-16'>
+        <div className='laptop:absolute block bg-white left-[50%] bottom-[5%] p-16 laptop:text-left text-center'>
           <h1 className='uppercase text-[35px] font-light pb-5 tracking-wide'>
             The leader in <br /> interactive vr
           </h1>
